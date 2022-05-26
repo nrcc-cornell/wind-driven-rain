@@ -1,4 +1,4 @@
-# Wind driven rain analysis for the southeastern United States
+# Wind driven rain analysis for the southeastern U.S.
 
 ## About this project
 
